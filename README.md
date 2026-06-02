@@ -7,7 +7,7 @@ To study the behavior of series and parallel RLC circuits at resonance and to de
 
 **APPARATUS REQUIRED:**
 
-<img width="504" height="276" alt="image" src="https://github.com/user-attachments/assets/2716f700-2960-4ba2-9e8f-7fa1cebda461" />
+<img width="504" height="276" alt="image" src="https://github.com/user-attachments/assets/6a96bbbb-0f9d-43a3-9dbe-f41f6c560624" />
 
 
 **THEORY:**
@@ -24,16 +24,22 @@ Frequency Response is a plot of output voltage or current of a resonance circuit
 frequency response is shown in figure 2.The two additional frequencies  f 1 and f 2 are also indicated which are called half power frequencies. These frequencies locate those points on the curve at which the voltage response is 1/√2 or 0.707 times the maximum value. They are used to measure the band-width of the response curve. This is called the half – power bandwidth of the resonant circuit and is defined as:  ΒW =f2 - f1
 
 **CIRCUIT DIAGRAM:**
-<img width="516" height="780" alt="image" src="https://github.com/user-attachments/assets/0d1276cf-58e3-4b01-9ef8-9c1e6906a74c" />
+
+<img width="516" height="780" alt="image" src="https://github.com/user-attachments/assets/46bc24c8-5dce-40b7-bf47-74f476ba61e3" />
+
 
 **Model graph:**
-<img width="418" height="786" alt="image" src="https://github.com/user-attachments/assets/b4489f5c-c4a3-4884-9709-a3158a2bc391" />
+
+<img width="418" height="786" alt="image" src="https://github.com/user-attachments/assets/de85b949-43a1-41eb-b4e1-8b2a830745cb" />
+
 
 **TABULATION:**
-<img width="1018" height="1064" alt="image" src="https://github.com/user-attachments/assets/35ff4e3c-f06e-48ac-a297-fed2cb3eb6cf" />
+<img width="1280" height="493" alt="image" src="https://github.com/user-attachments/assets/d48999bc-00de-4834-9ed5-62b58aa636a8" />
+
 
 **Calculation:**
-<img width="1280" height="493" alt="image" src="https://github.com/user-attachments/assets/ca4095c5-315f-4970-8f59-728a11c71db1" />
+
+<img width="1018" height="1064" alt="image" src="https://github.com/user-attachments/assets/b7bcc1d7-236c-4a0e-a67f-51badebfbfe9" />
 
 **PROCEDURE:**
 
